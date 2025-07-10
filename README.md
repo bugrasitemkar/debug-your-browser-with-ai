@@ -63,3 +63,5 @@ Hopefully, the connection is successful and you see the "Connected to browser-to
 Go to cursor chat and try a command such as "check console logs for warnings"
 
 And you will see the tool calling and the response.
+
+Read in medium format: https://hiddenlayerai.medium.com/how-to-debug-your-browser-with-ai-de1a883b5327
