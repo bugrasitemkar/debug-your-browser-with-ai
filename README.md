@@ -1,6 +1,7 @@
 # How To Debug Your Browser with AI
 
-*Photo by Timothy Dykes on Unsplash*
+<img width="2070" height="1380" alt="image" src="https://github.com/user-attachments/assets/bfcec220-450d-492b-8257-f831f50ad217" />
+
 
 Now you don't need to copy and paste Console Logs to your favourite LLM. With the browser tools MCP, now your LLM is aware of your browser developer tools context.
 
